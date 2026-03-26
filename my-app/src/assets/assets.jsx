@@ -12,6 +12,8 @@ import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTo
 // }
 
 
+
+
 export const aboutInfo = [
     {
       icon: FaLightbulb,
@@ -85,16 +87,16 @@ export const projects = [
   description: "A responsive food ordering and restaurant showcase platform with modern UI and smooth user experience.",
   tech: ["React", "HTML", "CSS", "API Integration"],
   // icons: [FaReact, FaHtml5, FaCss3Alt, FaDatabase],
-  demo: "#",
-  code: "#",
+  demo: "https://github.com/deepika14-rd/React.js.git",
+  code: "https://github.com/deepika14-rd/React.js.git",
 },
 {
   title: "Firebase Contact App",
   description: "A contact management application with real-time database integration and clean UI design.",
   tech: ["React", "Firebase", "Tailwind CSS"],
   // icons: [FaReact, FaFire, FaDatabase],
-  demo: "#",
-  code: "#",
+  demo: "https://github.com/deepika14-rd/React.js.git",
+  code: "https://github.com/deepika14-rd/React.js.git",
 },
   {
     title: "Portfolio Website",
@@ -102,8 +104,8 @@ export const projects = [
     // image: projectImg4,
     tech: ["React", "Tailwind CSS", "Framer Motion", "Markdown"],
     // icons: [FaReact, FaCloud],
-    demo: "#",
-    code: "#",
+    demo: "https://github.com/deepika14-rd/portfolio.git",
+    code: "https://github.com/deepika14-rd/portfolio.git",
   },
   ];
 
