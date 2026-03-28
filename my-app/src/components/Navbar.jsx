@@ -30,7 +30,7 @@ const Navbar = () => {
             className='relative group text-white text-sm md:text-base'
           >
             {item.name}
-            <span className='absolute left-0 -bottom-1 w-0 h-[2px] bg-red-500 transition-all duration-300 group-hover:w-full'></span>
+            <span className='absolute left-0 -bottom-1 w-0 h-[2px] bg-red-500 transition-all duration-300 '></span>
           </a>
         ))}
       </div>
@@ -62,7 +62,7 @@ const Navbar = () => {
               className='text-white text-lg relative group'
             >
               {item.name}
-              <span className='absolute left-0 -bottom-1 w-0 h-[2px] bg-red-500 transition-all duration-300 group-hover:w-full'></span>
+              <span className='absolute left-0 -bottom-1 w-0 h-[2px] bg-red-500 transition-all duration-300 '></span>
             </a>
           ))}
 
