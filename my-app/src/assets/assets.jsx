@@ -113,8 +113,8 @@ export const projects = [
 export const workData = [
     {
   role: "Campus Ambassador",
-  company: "Google Developer Programs",
-  duration: "Sep 2024 - Dec 2024",
+  company: "Google ",
+  duration: "Sep 2025 - Dec 2025",
   description:
     "Represented developer programs on campus, organized tech sessions, and increased student engagement through community building and social media outreach.",
   color: "purple"
