@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { FaBars, FaXmark } from 'react-icons/fa6'
-
+// import { FaBars, FaXmark } from 'react-icons/fa6'
+import { FaBars, FaTimes } from 'react-icons/fa'
 const Navbar = () => {
   const [menu, setMenu] = useState(false)
 
@@ -38,7 +38,7 @@ const Navbar = () => {
       {/* Mobile Icon */}
       <div className='md:hidden'>
         {menu ? (
-          <FaXmark
+          <FaTimes
             onClick={() => setMenu(false)}
             className='text-white text-2xl cursor-pointer'
           />
