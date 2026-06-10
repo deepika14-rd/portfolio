@@ -4,7 +4,7 @@ import { useState } from 'react'
 // import './App.css'
 import Navbar from './components/Navbar'
 import React from "react"
-import Homepage from './components/homepage'
+import Homepage from './components/Homepage'
 import About from './components/About'
 import Skills from './components/Skills'
 import Projects from './components/Projects'
