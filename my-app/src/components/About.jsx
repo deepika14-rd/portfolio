@@ -32,18 +32,23 @@ const About = () => {
           />
 
           {/* Text */}
-          <div className='flex flex-col gap-4 text-center lg:text-left'>
-            <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
-              Hi, I’m Deepika Bhardwaj, currently pursuing a B.Sc. (Hons) in Electronics from Sri Venkateswara College, University of Delhi. I’m passionate about technology and enjoy building digital solutions that are both functional and user-friendly.
-            </p>
+         <div className='flex flex-col gap-4 text-center lg:text-left'>
+  <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
+    Hi, I'm <span className='text-white font-semibold'>Deepika Bhardwaj</span> — a B.Sc. Electronics student at Sri Venkateswara College, University of Delhi, who somehow ended up spending most of her time writing code and building things for the web.
+  </p>
 
-            <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
-              I have a strong interest in both technology and design. I enjoy building digital experiences that are not only functional but also visually engaging. I’ve worked with technologies like React, JavaScript, HTML, and CSS, which help me understand how design and development work together.</p>
+  <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
+    I work with <span className='text-white font-semibold'>React, JavaScript, Node.js, HTML, and CSS</span> to build full-stack web applications — from a social media platform with real-time messaging to an AI-powered news chatbot. I care about writing clean code and building things that actually work well for the people using them.
+  </p>
 
-            <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
-              I’ve also explored AI chatbots, web apps, and cybersecurity projects through internships. My goal is to grow as a developer and build scalable, impactful solutions.
-            </p>
-          </div>
+  <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
+    Outside of coding, I've worked as a <span className='text-white font-semibold'>Google Campus Ambassador</span>, served as <span className='text-white font-semibold'>Department President</span>, and interned with the <span className='text-white font-semibold'>Gurugram Police Cyber Security</span> team — experiences that taught me how to think critically and communicate clearly in professional settings.
+  </p>
+
+  <p className='text-gray-300 text-sm sm:text-base leading-relaxed'>
+    I'm currently looking for opportunities where I can keep learning, contribute to real projects, and grow as a developer. If that sounds like something you're building — let's connect.
+  </p>
+</div>
 
         </div>
 

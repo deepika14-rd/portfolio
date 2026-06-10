@@ -104,9 +104,16 @@ export const projects = [
     // image: projectImg4,
     tech: ["React", "Tailwind CSS", "Framer Motion", "Markdown"],
     // icons: [FaReact, FaCloud],
-    demo: "https://github.com/deepika14-rd/portfolio.git",
+    demo: "https://portfolio-q8ce-8e5dldwc5-deepika14-rds-projects.vercel.app/",
     code: "https://github.com/deepika14-rd/portfolio.git",
   },
+  {
+  title: "Social Media Platform",
+  description: "A full-stack social networking app with user authentication, profiles, posts, likes, comments, and real-time messaging. Built with JWT-based auth and RESTful APIs.",
+  tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+  demo: "https://github.com/deepika14-rd/",
+  code: "https://github.com/deepika14-rd/",
+},
   ];
 
 
@@ -118,13 +125,6 @@ export const workData = [
   description:
     "Represented developer programs on campus, organized tech sessions, and increased student engagement through community building and social media outreach.",
   color: "purple"
-},{
-  role: "LLM Intern",
-  company: "Ethara AI",
-  duration: "Mar 2026 - May 2026",
-  description:
-    "Worked on Large Language Model (LLM) applications, contributing to AI-based solutions such as chatbots and intelligent systems, with a focus on real-world use cases and user interaction.",
-  color: "green"
 },
 {
   role: "Cybersecurity Intern",
@@ -137,7 +137,7 @@ export const workData = [
 {
   role: "Research Intern",
   company: "SRIVIPRA, Sri Venkateswara College",
-  duration: "Jul 2024 - Oct 2024",
+  duration: "Jul 2025 - Dec 2025",
   description:
     "Conducted research and data analysis under faculty mentorship, assisted in documentation, and presented findings in collaborative discussions.",
   color: "blue"
